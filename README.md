@@ -119,35 +119,12 @@
   <samp>
   <br/>
   <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/husnainsaeed00/github-readme-activity-graph">
   <img alt="husnainsaeed00" src="https://github-readme-activity-graph.vercel.app/graph?username=husnainsaeed00&theme=github-compact&hide_border=true" /></a>
 <br/>
   </samp>
   </details>
-  
 <details>
-  <summary>🌏 global</summary>
-  <br/>
-  <details open>
-  <summary>👷‍♂️ create your own custom badge</summary>
-  <div>
-  <samp>
-    <h2 align="center">u can try using this website for creating your own custom badge</h2>
-    <p align="center">
-      <a href="https://forthebadge.com/generator/" target="blank">
-        <img src="https://forthebadge.com/images/mark.svg" img align="center" height="50"
-        alt="for the badge"/></a>        
-      <a href="https://badgen.net/" target="blank">
-        <img src="https://badgen.net/statics/badgen-logo.svg" img align="center" height="50"
-        alt="badgen"/></a>
-      <a href="https://shields.io/" target="blank">
-        <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg" img align="center" height="50"
-        alt="shields.io"/></a>
-    </p>
-    </samp>
-  </div>
-</details> 
-<details open>
   <summary>😒 random stuff</summary>
 <div>
 <samp>
@@ -213,5 +190,3 @@
 </html>
 
 -----
-Credits: [1999AZZAR](https://github.com/1999AZZAR)
-Last Edited on: 19/01/2022
