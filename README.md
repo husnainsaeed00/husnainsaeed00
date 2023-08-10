@@ -26,7 +26,7 @@
       <a href="https://fb.com/husnain.saeed.9659" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="husnainsaeed00" height="30"/></a>
-      <a href="mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center"
+      <a href="mailto:Hunsainsaeed000gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="husnainsaeed00" height="30"/></a>
     </p>
@@ -60,20 +60,11 @@
      alt="website" /></a>
   </p>
   <p align="center">
-  <a href="https://www.codefactor.io/repository/github/husnainsaeed00/husnainsaeed00/overview/main"><img align="center"
-     src="https://www.codefactor.io/repository/github/husnainsaeed00/husnainsaeed00/badge/main" height="25"
-     alt="CodeFactor" /></a>
-  <a href="github.com/husnainsaeed00" target="blank"><img align="center" 
-     src="https://github.com/husnainsaeed00/husnainsaeed00/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
-     alt="page built"/></a>
   </p>
  <p align="center">
   <a href="https://github.com/husnainsaeed00" target="blank"><img align="center" 
      src="https://img.shields.io/github/license/1999AZZAR/1999AZZAR?color=purple&style=for-the-badge" height="25"
      alt="license" /></a>
-  <a href="https://github.com/husnainsaeed00"><img align="center"
-     src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
-     alt="work on my machine" /></a>
  </p>
  </samp>
 </div>
